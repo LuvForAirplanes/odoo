@@ -1,3 +1,6 @@
+# the virtual environment
+odoo-venv
+
 # sphinx build directories
 _build/
 
